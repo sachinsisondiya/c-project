@@ -1,0 +1,29 @@
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.log
+*.obj
+*.pdb
+*.sdf
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+Debug/
+Release/
+x64/
+*.exe
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+
+# Ignore system files (macOS, Linux)
+.DS_Store
+Thumbs.db
